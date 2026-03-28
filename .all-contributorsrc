@@ -3795,6 +3795,12 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SourishMerugu",
+      "name": "Merugu Sourish",
+      "profile":"https://github.com/SourishMerugu",
+      "contributions": ["doc"]
     }
   ]
 }
