@@ -3795,6 +3795,17 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SourishMerugu",
+      "name": "Merugu Sourish",
+      "avatar_url": "https://avatars.githubusercontent.com/u/187940853?v=4",
+      "profile": "https://github.com/SourishMerugu",
+      "contributions": [
+        "code",
+        "bug",
+        "doc"
+      ]
     }
   ]
 }
